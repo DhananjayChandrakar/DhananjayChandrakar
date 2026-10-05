@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:06B6D4&height=180&section=header&text=Dhananjay%20Chandrakar&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20Student%20%40%20SSCBS&descAlignY=58&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:06B6D4&height=190&section=header&text=Dhananjay%20Chandrakar&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20%40%20SSCBS&descAlignY=60&descSize=16" />
 
 <p>
-  <strong>Systems Programming</strong>
-  &nbsp; · &nbsp;
-  <strong>Computer Graphics</strong>
-  &nbsp; · &nbsp;
+  <strong>Systems</strong>
+  &nbsp;·&nbsp;
+  <strong>Graphics</strong>
+  &nbsp;·&nbsp;
   <strong>Backend</strong>
 </p>
 
@@ -23,77 +23,69 @@
 
 <br>
 
-## <img src="https://img.icons8.com/fluency/24/000000/user.png" width="20"> About
+<h2>About</h2>
 
 <table>
 <tr>
+
 <td width="65%" valign="top">
 
-I'm **Dhananjay**, a Computer Science student at **SSCBS**.
+Computer Science student at <strong>SSCBS</strong> exploring software from high-level applications down to lower-level systems.
 
-I'm interested in understanding software beyond the abstractions we normally work with. Currently, I'm going deeper into **Systems Programming** and **Computer Graphics with OpenGL**.
+Currently focused on <strong>Systems Programming</strong>, <strong>Computer Graphics</strong>, and <strong>OpenGL</strong>.
 
-I enjoy building things, experimenting with different technologies, and figuring out how things work underneath the surface.
+I like building things, understanding how they work underneath, and learning by experimenting.
 
 </td>
 
 <td width="35%" valign="top">
 
-### Currently
+<h3>Focus</h3>
 
-🟣 **OpenGL**  
-🔵 **Computer Graphics**  
-🟢 **Systems Programming**  
-🟡 **Backend Engineering**
+OpenGL<br>
+Computer Graphics<br>
+Systems Programming<br>
+Backend Engineering
 
 </td>
+
 </tr>
 </table>
 
 <br>
 
-## <img src="https://img.icons8.com/fluency/24/000000/compass.png" width="20"> Areas of Interest
+<h2>Areas of Interest</h2>
 
 <table>
 <tr>
 
-<td width="25%" align="center">
+<td width="33%" align="center">
 
-<h3>⚙️ Systems</h3>
+<h3>Systems</h3>
 
-C · C++  
-Low-level Programming  
+C · C++<br>
+Low-level Programming<br>
 Memory & Processes
 
 </td>
 
-<td width="25%" align="center">
+<td width="33%" align="center">
 
-<h3>◈ Graphics</h3>
+<h3>Graphics</h3>
 
-OpenGL  
-Rendering  
-Computer Graphics
+OpenGL<br>
+Rendering<br>
+Graphics Pipelines
 
 </td>
 
-<td width="25%" align="center">
+<td width="33%" align="center">
 
-<h3>⌘ Backend</h3>
+<h3>Backend</h3>
 
-Django  
-Node.js · Bun  
+Django<br>
+Node.js · Bun<br>
 APIs & Services
-
-</td>
-
-<td width="25%" align="center">
-
-<h3>◫ Data</h3>
-
-MongoDB  
-MySQL · Redis  
-NumPy · Pandas
 
 </td>
 
@@ -102,72 +94,67 @@ NumPy · Pandas
 
 <br>
 
-## <img src="https://img.icons8.com/fluency/24/000000/code.png" width="20"> Technologies
-
-### Languages
+<h2>Tech Stack</h2>
 
 <p>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-004482?style=flat-square&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111">
 </p>
 
-### Web & Backend
-
 <p>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
 </p>
 
-### Data & Databases
-
 <p>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white">
-</p>
-
-### Graphics
-
-<p>
-<img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white">
 </p>
 
 <br>
 
-## <img src="https://img.icons8.com/fluency/24/000000/rocket.png" width="20"> What I'm Exploring
+<h2>Currently Exploring</h2>
 
 <table>
 <tr>
 
 <td width="33%" valign="top">
 
-<h3><font color="#6366F1">01</font> · Computer Graphics</h3>
+<strong>Computer Graphics</strong>
 
-Exploring rendering fundamentals, graphics pipelines and real-time graphics using **OpenGL**.
+<br><br>
 
-</td>
-
-<td width="33%" valign="top">
-
-<h3><font color="#8B5CF6">02</font> · Systems Programming</h3>
-
-Going deeper into what happens underneath applications, from memory and processes to low-level execution.
+Rendering fundamentals, graphics pipelines, shaders and real-time graphics with OpenGL.
 
 </td>
 
 <td width="33%" valign="top">
 
-<h3><font color="#06B6D4">03</font> · Backend Engineering</h3>
+<strong>Systems Programming</strong>
 
-Building APIs and services while learning more about architecture, databases and scalable systems.
+<br><br>
+
+Memory, processes, execution and understanding what happens beneath applications.
+
+</td>
+
+<td width="33%" valign="top">
+
+<strong>Backend Engineering</strong>
+
+<br><br>
+
+APIs, databases, architecture and building reliable services.
 
 </td>
 
@@ -176,21 +163,26 @@ Building APIs and services while learning more about architecture, databases and
 
 <br>
 
-## <img src="https://img.icons8.com/fluency/24/000000/lightning-bolt.png" width="20"> The Direction
+<h2>GitHub</h2>
 
 <div align="center">
 
-```text
-             BACKEND
-                │
-                ▼
-             C / C++
-                │
-                ▼
-        SYSTEMS PROGRAMMING
-                │
-                ▼
-       COMPUTER GRAPHICS
-                │
-                ▼
-             OpenGL
+<a href="https://github.com/DhananjayChandrakar">
+  <img src="https://img.shields.io/badge/Explore%20my%20repositories-6366F1?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<sub>
+Building → experimenting → understanding → going deeper
+</sub>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:8B5CF6,100:6366F1&height=100&section=footer" />
+
+</div>
