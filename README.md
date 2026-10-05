@@ -14,6 +14,9 @@
   <a href="https://github.com/DhananjayChandrakar">
     <img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white">
   </a>
+  <a href="https://gitlab.com/DhananjayChandrakar">
+    <img src="https://img.shields.io/badge/GitLab-18181B?style=flat-square&logo=gitlab&logoColor=white">
+  </a>
   <a href="https://www.linkedin.com/in/dhananjay-chandrakar-09690385/">
     <img src="https://img.shields.io/badge/LinkedIn-18181B?style=flat-square&logo=linkedin&logoColor=white">
   </a>
@@ -56,10 +59,16 @@ Backend Engineering
 
 <h2>Areas of Interest</h2>
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=700&height=60&lines=Systems+Programming;Computer+Graphics;OpenGL+%26+Rendering;Backend+Engineering;Low-Level+Programming" />
+
+<br>
+
 <table>
 <tr>
 
-<td width="33%" align="center">
+<td width="25%" align="center">
 
 <h3>Systems</h3>
 
@@ -69,7 +78,7 @@ Memory & Processes
 
 </td>
 
-<td width="33%" align="center">
+<td width="25%" align="center">
 
 <h3>Graphics</h3>
 
@@ -79,7 +88,7 @@ Graphics Pipelines
 
 </td>
 
-<td width="33%" align="center">
+<td width="25%" align="center">
 
 <h3>Backend</h3>
 
@@ -89,8 +98,20 @@ APIs & Services
 
 </td>
 
+<td width="25%" align="center">
+
+<h3>Data</h3>
+
+MongoDB<br>
+MySQL · Redis<br>
+Pandas · NumPy
+
+</td>
+
 </tr>
 </table>
+
+</div>
 
 <br>
 
@@ -120,6 +141,56 @@ APIs & Services
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white">
   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white">
 </p>
+
+<br>
+
+<h2>Featured Projects</h2>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>SassDev</h3>
+
+Backend-focused project exploring APIs, services, databases and server-side architecture.
+
+<br><br>
+
+<a href="https://gitlab.com/DhananjayChandrakar/sassdev">
+  <img src="https://img.shields.io/badge/View%20Project-6366F1?style=flat-square&logo=gitlab&logoColor=white">
+</a>
+
+<br><br>
+
+<sub>
+Backend · APIs · Databases · Services
+</sub>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>Dyna</h3>
+
+A Git CLI built in <strong>Python</strong> for <strong>Unix-like systems</strong>, focused on working with Git directly from the command line.
+
+<br><br>
+
+<a href="https://gitlab.com/DhananjayChandrakar/dyna">
+  <img src="https://img.shields.io/badge/View%20Project-8B5CF6?style=flat-square&logo=gitlab&logoColor=white">
+</a>
+
+<br><br>
+
+<sub>
+Python · CLI · Git · Unix
+</sub>
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
@@ -163,12 +234,18 @@ APIs, databases, architecture and building reliable services.
 
 <br>
 
-<h2>GitHub</h2>
+<h2>Code</h2>
 
 <div align="center">
 
 <a href="https://github.com/DhananjayChandrakar">
-  <img src="https://img.shields.io/badge/Explore%20my%20repositories-6366F1?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-Explore-18181B?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+&nbsp;
+
+<a href="https://gitlab.com/DhananjayChandrakar">
+  <img src="https://img.shields.io/badge/GitLab-Explore-18181B?style=for-the-badge&logo=gitlab&logoColor=white">
 </a>
 
 </div>
