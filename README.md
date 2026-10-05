@@ -1,142 +1,218 @@
-# Hey, I'm Dhananjay 👋
+<div align="center">
 
-### `Computer Science Student • Systems & Graphics • Backend`
+<h1>Dhananjay Chandrakar</h1>
 
-I'm **Dhananjay Chandrakar**, a student at **SSCBS**, currently exploring **Systems Programming** and **Computer Graphics with OpenGL**.
+<p>
+  <strong>Computer Science Student @ SSCBS</strong>
+</p>
 
-I enjoy understanding how things work under the hood, building things from scratch, and working across backend development, databases, systems, and graphics.
+<p>
+  Systems Programming&nbsp;&nbsp;·&nbsp;&nbsp;Computer Graphics&nbsp;&nbsp;·&nbsp;&nbsp;Backend
+</p>
 
-```text
-Currently exploring
-└── Computer Graphics
-    ├── OpenGL
-    ├── Rendering
-    ├── Graphics Programming
-    └── Systems Programming
-```
+<p>
+  <a href="https://github.com/DhananjayChandrakar">
+    <img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/dhananjay-chandrakar-09690385/">
+    <img src="https://img.shields.io/badge/LinkedIn-18181B?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
----
+</div>
 
-## ⚡ Tech Stack
+<br>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+## About
+
+I'm **Dhananjay**, a Computer Science student at **SSCBS**.
+
+I'm interested in understanding software beyond the abstractions we normally work with. Currently, I'm going deeper into **Systems Programming** and **Computer Graphics with OpenGL**.
+
+I enjoy building things, experimenting with different technologies, and figuring out how things work underneath the surface.
+
+</td>
+
+<td width="40%" valign="top">
+
+### Currently
+
+**Learning**
+
+Computer Graphics  
+OpenGL  
+Rendering  
+Systems Programming  
+
+**Building**
+
+Backend Systems  
+Graphics Projects  
+Experimental Tools  
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Areas of Interest
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+### Systems
+
+C · C++  
+Low-level Programming  
+Memory & Processes
+
+</td>
+
+<td width="25%" align="center">
+
+### Graphics
+
+OpenGL  
+Rendering  
+Computer Graphics
+
+</td>
+
+<td width="25%" align="center">
+
+### Backend
+
+Django  
+Node.js · Bun  
+APIs & Services
+
+</td>
+
+<td width="25%" align="center">
+
+### Data
+
+MongoDB  
+MySQL · Redis  
+NumPy · Pandas
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Technologies
+
+<table>
+<tr>
+<td valign="top" width="50%">
 
 ### Languages
 
-![C](https://img.shields.io/badge/C-111111?style=for-the-badge\&logo=c\&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge\&logo=cplusplus\&logoColor=00599C)
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python\&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+<p>
+<img src="https://img.shields.io/badge/C-18181B?style=flat-square&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/C%2B%2B-18181B?style=flat-square&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/Python-18181B?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=white">
+</p>
 
-### Backend & Web
+### Web & Backend
 
-![Django](https://img.shields.io/badge/Django-111111?style=for-the-badge\&logo=django\&logoColor=0FA36B)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge\&logo=node.js\&logoColor=5FA04E)
-![Bun](https://img.shields.io/badge/Bun-111111?style=for-the-badge\&logo=bun\&logoColor=FBF0DF)
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge\&logo=html5\&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge\&logo=css3\&logoColor=1572B6)
+<p>
+<img src="https://img.shields.io/badge/Django-18181B?style=flat-square&logo=django&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-18181B?style=flat-square&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Bun-18181B?style=flat-square&logo=bun&logoColor=white">
+</p>
+
+</td>
+
+<td valign="top" width="50%">
+
+### Frontend
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-18181B?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-18181B?style=flat-square&logo=css3&logoColor=white">
+</p>
 
 ### Data & Databases
 
-![Pandas](https://img.shields.io/badge/Pandas-111111?style=for-the-badge\&logo=pandas\&logoColor=150458)
-![NumPy](https://img.shields.io/badge/NumPy-111111?style=for-the-badge\&logo=numpy\&logoColor=4DABCF)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-111111?style=for-the-badge\&logo=python\&logoColor=FFFFFF)
-![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge\&logo=mongodb\&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge\&logo=mysql\&logoColor=4479A1)
-![Redis](https://img.shields.io/badge/Redis-111111?style=for-the-badge\&logo=redis\&logoColor=DC382D)
+<p>
+<img src="https://img.shields.io/badge/MongoDB-18181B?style=flat-square&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-18181B?style=flat-square&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-18181B?style=flat-square&logo=redis&logoColor=white">
+</p>
 
-### Graphics & Systems
+### Data Science
 
-![OpenGL](https://img.shields.io/badge/OpenGL-111111?style=for-the-badge\&logo=opengl\&logoColor=FFFFFF)
+<p>
+<img src="https://img.shields.io/badge/NumPy-18181B?style=flat-square&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-18181B?style=flat-square&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/Matplotlib-18181B?style=flat-square&logo=matplotlib&logoColor=white">
+</p>
 
-**C • C++ • Python • JavaScript • OpenGL • Backend • Systems Programming**
+</td>
+</tr>
+</table>
 
----
+<br>
 
-## 🧠 What I'm Into
+## What I'm Exploring
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 01
+
+**Computer Graphics**
+
+Exploring the fundamentals of rendering, graphics pipelines and real-time graphics using OpenGL.
+
+</td>
+
+<td width="33%" valign="top">
+
+### 02
+
+**Systems Programming**
+
+Learning more about what happens underneath applications, from memory and processes to low-level execution.
+
+</td>
+
+<td width="33%" valign="top">
+
+### 03
+
+**Backend Engineering**
+
+Building APIs and services while learning more about architecture, databases and scalable systems.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## A little more about me
 
 ```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│   Systems Programming                       │
-│   Computer Graphics                         │
-│   OpenGL & Rendering                        │
-│   Backend Engineering                       │
-│   Databases & Distributed Systems           │
-│   Understanding how software works          │
-│                                             │
-└─────────────────────────────────────────────┘
-```
-
-I'm particularly interested in the intersection between **software and the machine it runs on**.
-
-From building backend systems to understanding memory, processes, rendering pipelines, and graphics APIs, I'm currently trying to go deeper rather than just wider.
-
----
-
-## 🔭 Currently Learning
-
-* 🎨 **Computer Graphics with OpenGL**
-* ⚙️ **Systems Programming**
-* 🧮 Rendering fundamentals and graphics pipelines
-* 🧠 Low-level programming concepts
-* 🏗️ Building better backend systems
-
----
-
-## 🛠️ Things I've Worked With
-
-```python
-stack = {
-    "languages": ["C", "C++", "Python", "JavaScript"],
-    "backend": ["Django", "Node.js", "Bun"],
-    "web": ["HTML", "CSS"],
-    "databases": ["MongoDB", "MySQL", "Redis"],
-    "data": ["Pandas", "NumPy", "Matplotlib"],
-    "graphics": ["OpenGL"],
-    "interests": [
-        "Systems Programming",
-        "Computer Graphics",
-        "Backend Engineering"
-    ]
-}
-```
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🚧 Current Status
-
-```text
-[████████████████░░░░]  Learning
-[██████████████░░░░░░]  Building
-[████████████░░░░░░░░]  Breaking things
-[██████████████████░░]  Figuring out why
-```
-
-> Learning by building. Building by breaking. Breaking things until they make sense.
-
----
-
-## 📫 Connect
-
-<p align="left">
-  <a href="https://github.com/DhananjayChandrakar">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/dhananjay-chandrakar-096903385/">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <sub>Currently somewhere between pixels, pointers and backend servers.</sub>
-</p>
+CS @ SSCBS
+         ↓
+Backend Development
+         ↓
+C / C++
+         ↓
+Systems Programming
+         ↓
+Computer Graphics
+         ↓
+OpenGL
